@@ -3,6 +3,7 @@ class Solution {
         
         int i=0,j=0;
         String res="";
+
         while(i<word1.length() && j<word2.length())
         {
             res+=word1.charAt(i);
