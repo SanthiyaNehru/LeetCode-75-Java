@@ -16,4 +16,8 @@ My Java solution for Leetcode 75 problems
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1146-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
