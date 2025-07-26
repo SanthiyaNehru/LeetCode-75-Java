@@ -1,6 +1,5 @@
 class Solution {
     public String mergeAlternately(String word1, String word2) {
-        
         int i=0,j=0;
         String res="";
 
@@ -21,6 +20,8 @@ class Solution {
             res+=word2.charAt(j);
             j++;
         }
+
         return res;
+
     }
 }
