@@ -19,5 +19,10 @@ My Java solution for Leetcode 75 problems
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
