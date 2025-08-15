@@ -5,15 +5,16 @@ class Solution {
 
         while(i<word1.length() && j<word2.length())
         {
-            res+=word1.charAt(i);
-            res+=word2.charAt(j);
+            res+= word1.charAt(i);
+            res+= word2.charAt(j);
             i++;
             j++;
         }
         while(i<word1.length())
         {
-            res+=word1.charAt(i);
+            res+= word1.charAt(i);
             i++;
+
         }
         while(j<word2.length())
         {
@@ -21,7 +22,6 @@ class Solution {
             j++;
         }
 
-        return res;
-
+return res;
     }
 }
