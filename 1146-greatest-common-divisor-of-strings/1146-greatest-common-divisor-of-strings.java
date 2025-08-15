@@ -6,8 +6,9 @@ class Solution {
         }
         int gcdLength=gcd(str1.length(),str2.length());
         return str1.substring(0,gcdLength);
+
     }
-    private int gcd(int a,int b)
+    private int gcd(int a, int  b)
     {
         return b==0 ? a : gcd(b,a%b);
     }
