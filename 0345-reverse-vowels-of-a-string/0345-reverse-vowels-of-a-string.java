@@ -5,13 +5,13 @@ class Solution {
         {
             return s;
         }
-        char[] chars=s.toCharArray();
-        int left=0,right=chars.length-1;
+         char[] chars=s.toCharArray();
+         int left=0,right=chars.length-1;
 
-        String vowels="aeiouAEIOU";
+         String vowels="aeiouAEIOU";
 
-        while(left<right)
-        {
+         while(left<right)
+         {
             while(left<right && vowels.indexOf(chars[left])==-1)
             {
                 left++;
@@ -27,9 +27,9 @@ class Solution {
                 chars[left]=chars[right];
                 chars[right]=temp;
                 left++;
-                right--;            
+                right--;
             }
+         }
+         return new String(chars);
     }
-    return new String(chars);
-}
 }
