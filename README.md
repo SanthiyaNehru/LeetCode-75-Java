@@ -15,6 +15,7 @@ My Java solution for Leetcode 75 problems
 | [0151-reverse-words-in-a-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/2470-removing-stars-from-a-string) |
 ## Math
@@ -43,4 +44,16 @@ My Java solution for Leetcode 75 problems
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/2470-removing-stars-from-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1777-determine-if-two-strings-are-close) |
+## Sorting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1777-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
