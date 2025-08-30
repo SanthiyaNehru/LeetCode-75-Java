@@ -28,6 +28,7 @@ My Java solution for Leetcode 75 problems
 | [0238-product-of-array-except-self](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2428-equal-row-and-column-pairs](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/2428-equal-row-and-column-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -43,11 +44,13 @@ My Java solution for Leetcode 75 problems
 ## Simulation
 |  |
 | ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1777-determine-if-two-strings-are-close) |
+| [2428-equal-row-and-column-pairs](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -56,4 +59,8 @@ My Java solution for Leetcode 75 problems
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1777-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
