@@ -14,6 +14,7 @@ My Java solution for Leetcode 75 problems
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0394-decode-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1894-merge-strings-alternately) |
@@ -41,6 +42,7 @@ My Java solution for Leetcode 75 problems
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -66,4 +68,8 @@ My Java solution for Leetcode 75 problems
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/2428-equal-row-and-column-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
