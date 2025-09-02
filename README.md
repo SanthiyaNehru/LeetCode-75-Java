@@ -15,6 +15,7 @@ My Java solution for Leetcode 75 problems
 | [0151-reverse-words-in-a-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1894-merge-strings-alternately) |
@@ -35,6 +36,7 @@ My Java solution for Leetcode 75 problems
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0649-dota2-senate) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -72,4 +74,8 @@ My Java solution for Leetcode 75 problems
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0394-decode-string) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
