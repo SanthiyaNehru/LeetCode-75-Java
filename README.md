@@ -28,6 +28,7 @@ My Java solution for Leetcode 75 problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0735-asteroid-collision) |
@@ -57,6 +58,7 @@ My Java solution for Leetcode 75 problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0001-two-sum) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
