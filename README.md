@@ -9,6 +9,7 @@ My Java solution for Leetcode 75 problems
 | [0151-reverse-words-in-a-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -78,4 +79,8 @@ My Java solution for Leetcode 75 problems
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0649-dota2-senate) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
