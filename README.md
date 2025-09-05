@@ -13,6 +13,7 @@ My Java solution for Leetcode 75 problems
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0394-decode-string) |
@@ -59,6 +60,7 @@ My Java solution for Leetcode 75 problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
@@ -88,4 +90,8 @@ My Java solution for Leetcode 75 problems
 | [0206-reverse-linked-list](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SanthiyaNehru/LeetCode-75-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
